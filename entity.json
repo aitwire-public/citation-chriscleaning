@@ -1,0 +1,9 @@
+{
+  "schema_version": "aitwire.authority.graph.v1",
+  "publisher": {
+    "tenant": "citation-chriscleaning"
+  },
+  "status": "no_data",
+  "message": "No authority data found for this tenant.",
+  "aitwire_verification_token": "aitwire-verify-offsite-github-3f07cefbb5"
+}
